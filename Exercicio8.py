@@ -1,0 +1,2 @@
+metros = float(int(input('Digite o valor em Metros: ')))
+print(f'O Valor em Centimetros de {metros} Metros e igual a {metros*100} cm.\nE o valor em milimetros de {metros} Metros e igual {metros*1000} mm.')
