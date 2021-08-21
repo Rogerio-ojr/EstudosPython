@@ -1,0 +1,113 @@
+3. Crie um progama que leia dois numeroe mostre a soma entre eles
+
+4. Faça um progama que leai no teclado e mostre na tela o seu tipo primitivo e todos as informações possiveis sobre ele.
+
+5. Faça um progama que leia um numero inteiro e mostre na tela o seu sucessor e seu antecessor
+
+6. Crei um algoritmo que leia um numero, e mostre o seu dobro, triplo e raiz quadrada.
+
+7. Desenvolva um progama que leia as duas notas de um aluno, calcule e mostre a sua media.
+
+8. Escreva um progama que lea um valor em metros e o exiba convertido em centimentros e milimetros.
+
+9. Faça um progama que leia um umero inteiro qualquer e mostre na tela a sua tabuada.
+
+10 . Criei um progama que leia quanto dinheiro uma pessoa tem na cateira e mostre quantos Dolares ela pode comprar. Considere o Dolar = 3,27
+
+11. Faça um progama que leia a largura e a altura e uma parede em metros, calcule a sua area e a quantidade de tinta necessaria para pintá-las, sabendo que cada litro de tinta, pinta uma area de 2m quadrados.
+
+12. Faça um algoritmo que leia o preço de um prduto e mostre seu novo preço, com  5% de desconto.
+
+13. Faça um algoritmo que leia o salario de um funcionario e mostre seu novo salario com 15% de aumento.
+
+16. Criei um programa que leia um numero Real e mostre na tela a sua porção inteira
+
+17. Faça um progama que leia o comprimento de cateto oposto e do cateto adjacente de um Triangulo retangulo, calcule e mostre o comprimento da hipotenusa.
+
+18. Faça um progama que leia um angulo qualquer e mostre na tela o valor do seno, cosseno e tangente de sse angulo
+
+19. Um Professor quer sortear um dos seus quatros alunos para apagar o quadro. Faça um progama que ajude ele, lendo o nome dele e escrevendo o nome do escolhido.
+
+20. O memso professor do desafio anterior quer sortear a ordem de apresentação de trabalhos dos quatros alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.
+
+21. Faça um progama em Python que abra e reproduza o audio de um arquivo MP3.
+
+22. Criei um progama que leia o nome completo de uma pessoa e mostre:
+	O nome com todas as letras maiusculas
+	O nome com todas minusculas
+	Quantas letras ao todo (sem considerar os espaços)
+	Quantas letras tem o primeiro nome.
+
+23. Faça um programa que leia um numero de 0 a 9999 e mostre na tela um dos digitos separados por Unidade, dezena, cetena e milhar.
+
+24. Criei um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "SANTO".
+
+25. Criei um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.
+
+26. Faça um programan que leia uma frase pelo teclado e mostre:
+	quantas vezes aparece a letra "A".
+	Em que posição ela aparece a primeira vez.
+	Em que posição ela aparece a ultima vez.
+
+27. Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o ultimo nome separadamente. 
+EX.: Ana Maria de Souza --> primeiro = Ana Ultimo = Souza
+
+28. Escreva um progama, que faça o computador "pensar" em um número inteiro entre 0 e 5 e peça para o usuario tentar descobrir qual foi o número escolhido pelo computador.
+O programa devera escrever na tela se o usuario venceu ou perdeu.
+
+29. Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80km/h. mostre uma mensagem dizendo que ele foi multado. A multa vai custar R$7,00 por cada Km acima do limite.
+
+30. Criei um programa que leia um numero qualquer inteiro e mostre na tela se ele e Par ou Impar.
+
+31. Desenvolva um programa que pergunte a distância de uma viagem em Km. Calcule o preço da passagem, cobrando R$0,50 por km para viagens de ate 200 Km e R$0,45 para viagens mais longas.
+
+32. Faça um pragrama que leia um ano qualquer e mostre se ele e um ano bissexto ou nao.
+
+33. Faça um pragrama que leia três numeros e mostre qual e o maior e qual o menor
+
+34. Escreva um programa que pergunte o salario de um funcionario e calcule o valor do seu aumento. Para salarios superiores a R$1250,00, calcule um aumento de 10%. para salarios inferiores ou iguais, o aumento e de 15%.
+
+35. Desenvolva um programa que leia o comprimento de três retas e diga ao usuario se elas podem ou não formar um triângulo.
+
+36. Escreva um progama para aprovar o emprestimo bancario para a compra de uma casa. O Programa vai perguntar o valor da casa, o salario do comprador e em quantos anos ele vai pagar. 
+Calcule o valor da prestação mensal, sabendo que ela não pode exceder 30% do salario ou entao o emprestimo sera negado.
+
+37. Esreva um progama que leia um numero inteiro qualquer e peça para o usuario escolher qual sera a base de conversão: 1 para binario / 2 para octal / 3 para hexadecimal.
+
+38. Escreva um programa que leia dois numeros inteiros e compare-os mostrando na tela uma mensagem:
+O Primeiro valor e maior / O Segundo valor e maior / Não Existe valor maior, os dois são iguais.
+
+39. Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com a sua idade:
+Se ele ainda vai se alistar ao serviço militar  / Se é a hora de se alistar / Se já passou do tempo do alistamento.
+Seu programa também devera mostrar o tempo que falta ou que passou do prazo.
+
+40. Crie um prograna que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a media atingida: Media abaixo de 5.0: REPROVADO / Media entre 5.0 e 6.9: RECUPERAÇÂO / Media 7.0 ou superior: APROVADO.
+
+41. A Confederação nacional de natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade: Ate 9 anos: MIRIM / Ate 14 anos: INFANTIL / Ate 19 anos: Junior/ Ate 20 anos: SENIOR / Acima: MASTER.
+
+42. Refaça o desafio 035 dos triangulos, acrescentando o recurso de mostrar que tipo de trinagulo sera formado: Equilatero: Todos os lados iguais / Isoceles: Dois lados iguais / Escaleno: todos os lados diferentes.
+
+43. Desenvolva uma logica que leia o peso e a altura de uma pessoa, calcule seu IMC e mostre seu status, de acordo com o a tabela abaixo:
+Abaixo de 18.5: Abaixo do Peso
+Entre 18.5 e 25: Peso Ideal
+25 ate 30: Sobrepeso
+30 ate 40: Obesidade
+Acima de 40: Obesidade Morbida.
+
+44. Elabore um programa que calcule o valor a ser pago por um produto, considerando o seu preço normal e condição de pagamento:
+A vista dinheiro/cheque: 10% de desconto
+A vista no cartão: 5% de desconto
+em ate 2x no cartão: preço normal
+3x ou mais no cartão: 20% de juros.
+
+45. Crie um programa que faça o computador jogar jokenpô com vc.
+
+
+
+
+
+
+
+
+
+
